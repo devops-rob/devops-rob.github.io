@@ -61,3 +61,12 @@ softSkills:
 - name: Communication
   percentage: 95
   color: orange
+- name: Analysis
+  percentage: 90
+  color: pink
+- name: Empathy
+  percentage: 90
+  color: sky
+- name: Influence
+  percentage: 85
+  color: green

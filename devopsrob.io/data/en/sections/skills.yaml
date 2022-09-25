@@ -33,3 +33,7 @@ skills:
 - name: Cloud Computing
   logo: "/images/sections/skills/cloud.png"
   summary: "Worked extensively with GCP, AWS and Azure to design and build production grade, fault tolerant, scalable application platforms."
+
+- name: Containers
+  logo: "/images/sections/skills/Docker-Symbol.png"
+  summary: "Extensive experience building secure, scalable and repeatable application environments using multiple container runtimes and schedulers inlcuding Nomad and Kubernetes."

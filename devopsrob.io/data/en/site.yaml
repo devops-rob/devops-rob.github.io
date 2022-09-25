@@ -8,5 +8,8 @@ customMenus:
 - name: Docs
   url: https://toha-guides.netlify.app/posts/
   # specify whether to hide the menu item from top navbar or not.
-  hideFromNavbar: false
+  hideFromNavbar: true
+  
 - name: Talks
+  url: https://devopsrob.com/posts/conference-talks/
+  hideFromNavbar: false
