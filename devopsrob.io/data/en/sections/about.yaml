@@ -1,0 +1,72 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior Developer Advocate
+# your company information
+company:
+  name: HashiCorp
+  url: "https://www.hashicorp.com/"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: | 
+  Security focused Software Engineer and Developer Advocate from a DevOps background with over a decade of experience spanning multiple sectors. 
+  Co-host of the cloud security podcast Keepin' It Secure. 
+  Idea incubator, big picture thinker and security innovator. Builder of OSS tools to empower developers to be secure by default. 
+  On a mission to lower developer's barriers to entry for security, remove passwords from workloads, and enable the next generation of engineers to further advance the security industry.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/devops-rob"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/devopsrob/"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/devops_rob"
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/devopsrob"
+- name: Medium
+  icon: "fab fa-medium"
+  url: https://medium.com/@devopsrob
+- name: Dev.to
+  icon: "fa-brands fa-dev"
+  url: "https://dev.to/devopsrob"
+- name: Soundcloud
+  icon: "fa-brands fa-soundcloud"
+  url: "https://soundcloud.com/devopsrob"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Mentoring
+  percentage: 85
+  color: blue
+- name: Thought leadership
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 95
+  color: orange
+- name: Analysis
+  percentage: 90
+  color: pink
+- name: Empathy
+  percentage: 90
+  color: sky
+- name: Influence
+  percentage: 85
+  color: green

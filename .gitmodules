@@ -1,0 +1,3 @@
+[submodule "devopsrob.io/themes/toha"]
+	path = devopsrob.io/themes/toha
+	url = https://github.com/hugo-toha/toha.git

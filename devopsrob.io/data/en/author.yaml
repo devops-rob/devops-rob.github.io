@@ -1,0 +1,16 @@
+name: "Rob Barnes"
+nickname: "DevOps Rob"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+# greeting: "Hi, I am"
+# image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "iam@devopsrob.com"
+
+# some summary about what you do
+summary:
+  - Software Engineer
+  - Co-host of the Keepin' It Secure Podcast
+  - Frequent public speaker
+  # - Primarily focused on Cloud Security
+  # - My mission is to make security accessible to developers

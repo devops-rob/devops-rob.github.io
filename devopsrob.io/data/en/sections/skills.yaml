@@ -1,0 +1,39 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Vault
+  logo: "/images/sections/skills/Vault_VerticalLogo_Color_RGB.png"
+  summary: "Expert knowledge and extensive experience in designing, deploying and extending scalable Vault implementations and consumption patterns. Proven track record of developing Vault plugins."
+  url: "https://vaultproject.io/"
+
+- name: Terraform
+  logo: "/images/sections/skills/Terraform_VerticalLogo_Color_RGB.png"
+  summary: "Vast experience writing and maintaining Infrastructure as Code using Terraform. Maintatiner of more than 15 security focused Terraform modules with more than 9k downloads."
+  url: "https://registry.terraform.io/namespaces/devops-rob"
+
+- name: Go Development
+  logo: "/images/sections/skills/go.png"
+  summary: "Language of choice to extend the HashiCorp eco-system and build meaningful integrations to enable robust security solutions."
+  url: "https://golang.org/"
+
+- name: Python Scripting
+  logo: "/images/sections/skills/python.png"
+  summary: Experienced in scripting system and platform automation tasks in Python.
+
+
+- name: Cloud Computing
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Worked extensively with GCP, AWS and Azure to design and build production grade, fault tolerant, scalable application platforms."
+
+- name: Containers
+  logo: "/images/sections/skills/Docker-Symbol.png"
+  summary: "Extensive experience building secure, scalable and repeatable application environments using multiple container runtimes and schedulers inlcuding Nomad and Kubernetes."
